@@ -19,12 +19,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Express" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
-
 </p>
 <br />
 
 ### :trophy: Моя статистика:
-
 <div>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Wayhito&layout=compact">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wayhito&layout=compact" />
